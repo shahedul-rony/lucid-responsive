@@ -1,0 +1,52 @@
+@media(min-width:0px) and (max-width:426px){
+    .phone{
+        display: none;
+    }
+    .features h5{
+        text-align: center;
+    }
+    .features h1{
+        text-align: center;
+    }
+    .features{
+        text-align: center
+    }
+    .btn-features{
+        padding: 10px 33px;
+        margin-left: 0px;
+        margin-top: 13px;
+    }
+    .break{
+        height: 312px;
+    }
+
+}
+@media(min-width:0px) and (max-width:320px){
+    .btn-features{
+        margin-left: 0;
+        padding: 7px 19px;
+        margin-top: 5px;
+        padding: 6px 21px !important;
+    }
+    .btn-download{
+        padding: 7px 12px;
+        font-size: 14px;
+    }
+}
+@media(min-width:0px) and (max-width:376px){
+    .btn-features{
+        padding: 10px 33px;
+        margin-left: 0px;
+        margin-top: 13px;
+    }
+}
+@media(min-width:0px) and (max-width:768px){
+    .btn-features{
+        padding: 10px 33px;
+        margin-left: 0px;
+        margin-top: 13px;
+    }
+    .break{
+        height: 151px;
+    }
+}
